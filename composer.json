@@ -8,6 +8,6 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": { "psr-4": { "Yuansir\\Toastr\\": "src/" } }
 }
