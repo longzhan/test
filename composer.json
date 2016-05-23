@@ -1,0 +1,12 @@
+{
+    "name": "ryantest/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "shouxue",
+            "email": "xushouxue@xuexuecan.com"
+        }
+    ],
+    "require": {},
+    "autoload": { "psr-4": { "Yuansir\\Toastr\\": "src/" } }
+}
